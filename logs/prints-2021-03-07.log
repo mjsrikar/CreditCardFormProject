@@ -1,0 +1,6 @@
+17:25:36.938 [TestNG-tests-3] INFO  TakeHomeAssignment.CreditCardForm.base - Successfully validated Title of form
+17:25:37.459 [TestNG-tests-4] INFO  TakeHomeAssignment.CreditCardForm.base - Multiple data set
+17:25:37.802 [TestNG-tests-1] INFO  TakeHomeAssignment.CreditCardForm.base - Navigated to form
+17:25:37.819 [TestNG-tests-2] INFO  TakeHomeAssignment.CreditCardForm.base - Navigated to form
+17:25:38.041 [TestNG-tests-4] INFO  TakeHomeAssignment.CreditCardForm.base - Multiple data set
+17:25:38.325 [TestNG-tests-2] INFO  TakeHomeAssignment.CreditCardForm.base - successfully checked elements present on page

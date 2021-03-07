@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name= "TakeHomeAssignment.CreditCardForm.listeners" />
+</listeners>
+<test name="E2E testscript for form">
+    <classes>
+      <class name="TakeHomeAssignment.CreditCardForm.E2EValidation"/>
+       </classes>
+  </test>
+  <test name="Validate all the fields present on form">
+    <classes>
+      <class name="TakeHomeAssignment.CreditCardForm.validateallfields"/>
+       </classes>
+  </test>
+  <test name="Successful navigate to form">
+    <classes>
+      <class name="TakeHomeAssignment.CreditCardForm.HomePage"/>
+       </classes>
+  </test>
+  <test name="Multipledatasets test with dataprovide">
+    <classes>
+      <class name="TakeHomeAssignment.CreditCardForm.Multipledatasetstest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
