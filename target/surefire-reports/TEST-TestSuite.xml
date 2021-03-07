@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="10.306" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.15" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_261\bin"/>
-    <property name="sun.java.command" value="C:\Users\majet\AppData\Local\Temp\surefire8059731280318730122\surefirebooter5296178036992446192.jar C:\Users\majet\AppData\Local\Temp\surefire8059731280318730122 2021-03-07T17-25-28_072-jvmRun1 surefire3747169297298978387tmp surefire_05562899111201695578tmp"/>
+    <property name="sun.java.command" value="C:\Users\majet\AppData\Local\Temp\surefire1738037247601442674\surefirebooter538179858759190561.jar C:\Users\majet\AppData\Local\Temp\surefire1738037247601442674 2021-03-07T18-23-57_180-jvmRun1 surefire1608218291610210930tmp surefire_01289284059031091211tmp"/>
     <property name="surefire.test.class.path" value="D:\Eclipse Projects\CreditCardForm\target\test-classes;D:\Eclipse Projects\CreditCardForm\target\classes;C:\Users\majet\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\majet\.m2\repository\org\testng\testng\7.3.0\testng-7.3.0.jar;C:\Users\majet\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\majet\.m2\repository\org\apache\ant\ant\1.10.3\ant-1.10.3.jar;C:\Users\majet\.m2\repository\org\apache\ant\ant-launcher\1.10.3\ant-launcher-1.10.3.jar;C:\Users\majet\.m2\repository\com\google\inject\guice\4.2.2\guice-4.2.2-no_aop.jar;C:\Users\majet\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\majet\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\majet\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\majet\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\majet\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\majet\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\majet\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\majet\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\majet\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\majet\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\majet\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\majet\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\majet\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\majet\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\majet\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\majet\.m2\repository\org\apache\logging\log4j\log4j-api\2.14.0\log4j-api-2.14.0.jar;C:\Users\majet\.m2\repository\org\apache\logging\log4j\log4j-core\2.14.0\log4j-core-2.14.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\majet"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\majet\AppData\Local\Temp\surefire8059731280318730122\surefirebooter5296178036992446192.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\majet\AppData\Local\Temp\surefire1738037247601442674\surefirebooter538179858759190561.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_261\lib\resources.jar;C:\Program Files\Java\jre1.8.0_261\lib\rt.jar;C:\Program Files\Java\jre1.8.0_261\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_261\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_261\lib\jce.jar;C:\Program Files\Java\jre1.8.0_261\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_261\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_261\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,15 +61,15 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="navigatetoform" classname="TakeHomeAssignment.CreditCardForm.HomePage" time="0.028">
-    <system-err><![CDATA[1615155930644	geckodriver	INFO	Listening on 127.0.0.1:47344
-1615155930659	geckodriver	INFO	Listening on 127.0.0.1:28342
-1615155930675	geckodriver	INFO	Listening on 127.0.0.1:46595
-1615155930683	geckodriver	INFO	Listening on 127.0.0.1:25840
-1615155931380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\User1s\6\1m5a1j5e5t93\1\3A83p	pmDoaztraun\n\eLro::craunln\e\r	TIeNmFpO	\R\urnunsitn_gm coozmpmarnod:f il"Ce:a7\ZA\S3"P
-rogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\majet\\AppData\\Local\\Temp\\rust_mozprofileMncTnP"
-1615155931386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-1r6e1m5o1t5e5"9 3"138-7p	rmoofzirlue"n n"eCr::\:\rUusnenresr\	\mIaNjFeOt	\R\uAnpnpiDnagt ac\o\mLmoacnadl:\ \"TCe:m\p\\P\rrougsrta_mm oFziplreosf\i\lMeoRzqi0lelFaF "F
-irefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\majet\\AppData\\Local\\Temp\\rust_mozprofileQUQ7qI"
+  <testcase name="navigatetoform" classname="TakeHomeAssignment.CreditCardForm.HomePage" time="0.009">
+    <system-err><![CDATA[1615159438961	geckodriver	INFO	Listening on 127.0.0.1:34558
+1615159438979	geckodriver	INFO	Listening on 127.0.0.1:16010
+1615159438987	geckodriver	INFO	Listening on 127.0.0.1:41361
+1615159438998	geckodriver	INFO	Listening on 127.0.0.1:48580
+1615159439641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\User1s\\m6aje1t\5\Ap1pD5at9a\\4Lo3cal\9\Te6mp4\2\	rumsot_zmrozupnrnofeirl:e4:ErvunnznPe"r
+	INFO	Running comm1a1n66d1:15 51"15C599:44\3\39P9646r34o	gm3ro	zamrmou znnFreiurnl:en:ersru\:n\n:Meroruz	niINnlFelO	raR	 uIFnNniFirnOeg	 fRcouoxnm\mann\di:fng i "rcoCem:fm\aon\xdP:. re"oCxg:re\"a\ mP "roF-gi-rlmamea Fsrilie\so\\\nMMoozezilitllat leFi"ar  ef"Fo-ix\rf\eofifrroexf\eo\xg.feixrreeo"fu no"-xd-."m ear"xieo-n"ne to"t-e-"-r me"ma-foorrteegir"oo u"nn-edp"tr to"ef-"in lo"e--"fr oe"rmCeog:tre\o"\u Un"sd-"e pr"rs-\o\filne"o m-"raCe:jm\e\toU\tsee\"rA sp"\p-\pDmraaotjfaie\lt\e\L"\o Ac"paCp:lD\\a\\tUTase\em\rpLs\\o\\crmaualsj\ett\_\Tm\eoAmzppppD\rao\trfaui\sl\teL_kom9conazl7p\CrAo\"Tf
+eimlpe\0\grDudsPtH_m"o
+zprofileZSh141"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
@@ -78,54 +78,58 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615159442934	Marionette	INFO	Listening on port 64988
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1615155935762	Marionette	INFO	Listening on port 62494
+1615159443000	Marionette	INFO	Listening on port 64986
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1615155936246	Marionette	INFO	Listening on port 62495
-1615155936247	Marionette	WARN	TLS certificate errors will be ignored for this session
-1615155936262	Marionette	INFO	Listening on port 62493
-1615155936276	Marionette	ERROR	[18] No reply from Marionette:Register
-1615155936290	Marionette	INFO	Listening on port 62492
-Mar 07, 2021 5:25:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-1615155936327	Marionette	WARN	TLS certificate errors will be ignored for this session
-1615155936352	Marionette	ERROR	[18] No reply from Marionette:Register
-Mar 07, 2021 5:25:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
+1615159443303	Marionette	INFO	Listening on port 64989
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1615155936778	Marionette	ERROR	[18] No reply from Marionette:Register
-1615155936840	Marionette	ERROR	[18] No reply from Marionette:Register
-1615155936845	Marionette	WARN	TLS certificate errors will be ignored for this session
-1615155936873	Marionette	ERROR	[18] No reply from Marionette:Register
-Mar 07, 2021 5:25:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+1615159443347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615159443348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615159443351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615159443369	Marionette	ERROR	[18] No reply from Marionette:Register
+1615159443375	Marionette	ERROR	[18] No reply from Marionette:Register
+1615159443377	Marionette	ERROR	[18] No reply from Marionette:Register
+Mar 07, 2021 6:24:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-1615155936925	Marionette	WARN	TLS certificate errors will be ignored for this session
-]]></system-err>
-  </testcase>
-  <testcase name="multipletestsets[Userone, 1111222233334444, visa, 100, 11, 2022, 500007](1)" classname="TakeHomeAssignment.CreditCardForm.Multipledatasetstest" time="0.539">
-    <system-err><![CDATA[1615155936958	Marionette	ERROR	[18] No reply from Marionette:Register
-Mar 07, 2021 5:25:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Mar 07, 2021 6:24:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-1615155936967	Marionette	INFO	Stopped listening on port 62494
+Mar 07, 2021 6:24:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1615159443409	Marionette	INFO	Listening on port 64987
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615159443777	Marionette	ERROR	[18] No reply from Marionette:Register
+1615159443803	Marionette	ERROR	[18] No reply from Marionette:Register
+1615159443824	Marionette	ERROR	[18] No reply from Marionette:Register
+1615159443891	Marionette	WARN	TLS certificate errors will be ignored for this session
+Mar 07, 2021 6:24:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="multipletestsets[Usertwo, 2222222233334444, master card, 111, 1, 2025, 500010](2)" classname="TakeHomeAssignment.CreditCardForm.Multipledatasetstest" time="0.203">
-    <system-err><![CDATA[1615155937646	Marionette	ERROR	[18] No reply from Marionette:Register
-1615155937672	Marionette	ERROR	[18] No reply from Marionette:Register
+  <testcase name="validateallfieldsdisplayed" classname="TakeHomeAssignment.CreditCardForm.E2EValidation" time="0.523">
+    <system-err><![CDATA[1615159443933	Marionette	INFO	Stopped listening on port 64988
+1615159443933	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+]]></system-err>
+  </testcase>
+  <testcase name="validateallfieldsdisplayed" classname="TakeHomeAssignment.CreditCardForm.validateallfields" time="0.535"/>
+  <testcase name="validateallfieldsenabled" classname="TakeHomeAssignment.CreditCardForm.validateallfields" time="0.172">
+    <system-err><![CDATA[1615159444491	Marionette	ERROR	[18] No reply from Marionette:Register
+1615159444505	Marionette	INFO	Stopped listening on port 64986
+]]></system-err>
+  </testcase>
+  <testcase name="multipletestsets[Userone, 1111222233334444, visa, 100, 11, 2022, 500007](1)" classname="TakeHomeAssignment.CreditCardForm.Multipledatasetstest" time="0.482">
+    <system-err><![CDATA[1615159444669	Marionette	INFO	Stopped listening on port 64989
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
+]]></system-err>
+  </testcase>
+  <testcase name="multipletestsets[Usertwo, 2222222233334444, master card, 111, 1, 2025, 500010](2)" classname="TakeHomeAssignment.CreditCardForm.Multipledatasetstest" time="0.334">
+    <system-err><![CDATA[
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 
@@ -133,16 +137,4 @@ INFO: Detected dialect: W3C
 
 ]]></system-err>
   </testcase>
-  <testcase name="validateallfieldsdisplayed" classname="TakeHomeAssignment.CreditCardForm.validateallfields" time="0.494">
-    <system-err><![CDATA[1615155938063	Marionette	INFO	Stopped listening on port 62495
-]]></system-err>
-  </testcase>
-  <testcase name="validateallfieldsenabled" classname="TakeHomeAssignment.CreditCardForm.validateallfields" time="0.207">
-    <system-err><![CDATA[1615155938369	Marionette	INFO	Stopped listening on port 62492
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-]]></system-err>
-  </testcase>
-  <testcase name="validateallfieldsdisplayed" classname="TakeHomeAssignment.CreditCardForm.E2EValidation" time="0.026"/>
 </testsuite>

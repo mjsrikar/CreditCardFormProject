@@ -31,7 +31,6 @@ public class E2EValidation extends base{
 		Assert.assertEquals(driver.getTitle(), "Credit Card Form");
 		//validating all fields are present in the form
 		cobj.getcardName().sendKeys("e2eusername");
-		Assert.assertEquals(cobj.getcardName().getText(), "e2eusername");
 		cobj.getcardNumber().sendKeys("1000 2000 3300 4400");
 		cobj.getcardType().sendKeys("AmericanExpress");
 		cobj.getcvv().sendKeys(String.valueOf("100"));
